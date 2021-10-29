@@ -11,6 +11,7 @@ registerComponents({
 });
 
 condasasd;
+condas
 
 /**
  * README
