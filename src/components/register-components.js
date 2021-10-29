@@ -10,6 +10,8 @@ registerComponents({
     // or register your own dynamic component.
 });
 
+condas;
+
 /**
  * README
  * ======
