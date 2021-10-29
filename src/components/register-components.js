@@ -10,8 +10,6 @@ registerComponents({
     // or register your own dynamic component.
 });
 
-conas
-
 /**
  * README
  * ======
