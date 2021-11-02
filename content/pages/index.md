@@ -41,7 +41,7 @@ sections:
         justifyContent: center
         flexDirection: row
         borderRadius: none
-        borderWidth: 0
+        borderWidth: 4
         borderStyle: none
         borderColor: border-primary
       title:
