@@ -57,7 +57,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     feature:
-      url: 'https://filesamples.com/samples/video/mp4/sample_960x540.mp41'
+      url: 'https://filesamples.com/samples/video/mp4/sample_960x540.mp4'
       autoplay: false
       loop: false
       muted: false
