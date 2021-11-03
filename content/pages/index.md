@@ -43,6 +43,7 @@ sections:
         borderRadius: none
         borderStyle: solid
         borderColor: border-primary
+        borderWidth: 1
       title:
         fontWeight: 700
         fontStyle: normal
