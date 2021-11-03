@@ -64,7 +64,6 @@ sections:
       controls: false
       elementId: ''
       type: VideoBlock
-      thumbnailUrl: /images/about.jpg
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
